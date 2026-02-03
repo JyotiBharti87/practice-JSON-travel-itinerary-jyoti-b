@@ -1,0 +1,42 @@
+{
+    "tripName": "Trip to Orlando",
+    "traveler": {
+        "fullName": "Ava Jane",
+        "contact": {
+            "email": "jane123@gmail.com",
+            "phone": 2012387890
+        }
+    },
+    "destination": [
+        {
+            "location": "Disney World",
+            "arrivalDate": "2026-02-02",
+            "departureDate": "2026-02-10",
+            "activities": [
+                {
+                    "title": "Magic Kingdom",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Universal Studio",
+                    "time": "3:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Florida",
+            "arrivalDate": "2026-02-11",
+            "departureDate": "2026-02-15",
+            "activities": [
+                {
+                    "title": "Epcot",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Sea Life Aquarium",
+                    "time": "3:00 PM"
+                }
+            ]
+        }
+    ]
+}
