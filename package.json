@@ -1,0 +1,58 @@
+{
+  "name": "trip-to-orlando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotiBharti87/practice-JSON-travel-itinerary-jyoti-b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotiBharti87/practice-JSON-travel-itinerary-jyoti-b/issues"
+  },
+  "homepage": "https://github.com/JyotiBharti87/practice-JSON-travel-itinerary-jyoti-b#readme",
+  "traveler": {
+    "fullName": "Ava Jane",
+    "contact": {
+      "email": "jane123@gmail.com",
+      "phone": 2012387890
+    }
+  },
+  "destination": [
+    {
+      "location": "Disney World",
+      "arrivalDate": "2026-02-02",
+      "departureDate": "2026-02-10",
+      "activities": [
+        {
+          "title": "Magic Kingdom",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Universal Studio",
+          "time": "3:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Florida",
+      "arrivalDate": "2026-02-11",
+      "departureDate": "2026-02-15",
+      "activities": [
+        {
+          "title": "Epcot",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Sea Life Aquarium",
+          "time": "3:00 PM"
+        }
+      ]
+    }
+  ]
+}
