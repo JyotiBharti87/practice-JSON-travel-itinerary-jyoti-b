@@ -16,6 +16,7 @@
     "url": "https://github.com/JyotiBharti87/practice-JSON-travel-itinerary-jyoti-b/issues"
   },
   "homepage": "https://github.com/JyotiBharti87/practice-JSON-travel-itinerary-jyoti-b#readme",
+  "tripName": "Trip to Orlando",
   "traveler": {
     "fullName": "Ava Jane",
     "contact": {
